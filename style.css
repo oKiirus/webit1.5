@@ -1,0 +1,29 @@
+h1 {
+    color: #a55652;
+}
+
+.about {
+    display: flex;
+    justify-content: center;   
+}
+
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.icon{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.par{
+    text-align: center;
+}
+
+body{
+  background-color:#00BFFF;
+}
+
+
